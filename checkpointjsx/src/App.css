@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  
+}
+.a{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+ padding-top: 50px;
+}
+img{
+  width: 400px;
+  height: 500px;
+}
